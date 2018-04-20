@@ -1,0 +1,2 @@
+Some experimentiation relating to the runtime and scoring of the matching problem using the Hungarian Method and comparing to the simulated annealing optimization. The purpose is to explore the trade off between the optimality and time when comparing the global optimal solution found by the Hungarian in O(n^3) time to the approximate solution found by the Annealing. Only a random uniform cost matrix was considered in this experiment.
+
